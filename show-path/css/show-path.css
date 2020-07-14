@@ -1,0 +1,11 @@
+
+.show-path {
+    display: inline-block;
+    color: #373B3F;
+    background-color: #FBFBFC;
+    border: 1px solid #DDDDDE;
+    padding: 0 5px;
+    font-size: 13px;
+    line-height: 20px;
+    border-radius: 5px;
+}
